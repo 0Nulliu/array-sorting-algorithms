@@ -1,1 +1,1 @@
-# Sorting Algorithms for Beginners
+added 3 new sorting algorithms
